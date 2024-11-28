@@ -32,8 +32,8 @@ pip install -r requirements.txt
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/license-plate-detection.git
-cd license-plate-detection
+git clone https://github.com/1adarshkv9/licenseplatedetection.git
+cd licenseplatedetection
 ```
 
 ### 2. Dataset Preparation
@@ -97,8 +97,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, feel free to reach out at **your_email@example.com**.
+For questions or feedback, feel free to reach out at **adarsh.k@phytecembedded.in**.
 
 ---
 
-**Happy Coding!**
+
