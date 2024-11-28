@@ -81,7 +81,8 @@ tensorboard --logdir path_to_training_logs
 - Quantized TFLite model: `quant_model_NPU.tflite`.
 
 Below is an example detection output from the i.MX8MP device using the trained model:
-Video2024-10-07at5.47.11PM-ezgif.com-crop.gif
+
+![](https://github.com1adarshkv9/licenseplatedetection/main/Video2024-10-07at5.47.11PM-ezgif.com-crop.gif)
 
 The model successfully detects and localizes license plates in real-world images with high accuracy.
 
