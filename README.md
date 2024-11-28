@@ -82,7 +82,7 @@ tensorboard --logdir path_to_training_logs
 
 Below is an example detection output from the i.MX8MP device using the trained model:
 
-![](https://github.com1adarshkv9/licenseplatedetection/main/Video2024-10-07at5.47.11PM-ezgif.com-crop.gif)
+![](https://github.com/1adarshkv9/licenseplatedetection/blob/main/Video2024-10-07at5.47.11PM-ezgif.com-crop.gif)
 
 The model successfully detects and localizes license plates in real-world images with high accuracy.
 
